@@ -49,5 +49,4 @@ The project can be further expanded by adding visualization layers using Tableau
 ## New Additions
 
 - Python data cleaning notebook added in `/notebooks/`
-- Business insights summarized in `/docs/Insights.md`
 - Sample query output screenshots added in `/images/`
