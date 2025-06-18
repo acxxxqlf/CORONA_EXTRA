@@ -45,3 +45,9 @@ The ability to take completely raw and messy real-world data and transform it in
 ## **Possible Expansion**
 
 The project can be further expanded by adding visualization layers using Tableau or Power BI. Forecasting models can also be integrated using Python to predict future trends based on the existing data.
+
+## New Additions
+
+- Python data cleaning notebook added in `/notebooks/`
+- Business insights summarized in `/docs/Insights.md`
+- Sample query output screenshots added in `/images/`
